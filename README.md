@@ -1,3 +1,4 @@
+##  if you want run this project, you should run config-service project first!
 ### BUILD
 
 #### Generate IntelliJ IDEA project
